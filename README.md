@@ -38,4 +38,7 @@ Project Snapshots:-
    ![Backend_CSV](https://github.com/dharalnaik/Trivia-Masters/assets/142478246/375cc8d8-323c-41b0-9969-458bc6a8e1c2)
 
 
+Note:-
+This project was not only prepared by me, but also my classmate in high school. It was a group project in school of 2-5 students, in which me amd my friend were the only two members of the group.
 
+Thank you! 
