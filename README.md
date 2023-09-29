@@ -11,3 +11,9 @@ Trivia Masters - An online quiz consisting of a GUI login and signup page with q
 9. Linux specific Commands - sudo apt-get install python3-pil python3-pil.imagetk
 10. First time only - In MySQL - Create database quiz123 Create an empty table with columns- FULLNAME(varchar), USERNAME(varchar) and PASSWORD(varchar)
 11. Now launch main.py
+
+Project Snapshots:-
+1. Home Page:-
+   ![Start Page](https://github.com/dharalnaik/Trivia-Masters/assets/142478246/d72eeb9c-4ca5-435b-b44e-dd7e5d7825d7)
+
+   
