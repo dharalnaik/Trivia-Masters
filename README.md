@@ -1,5 +1,6 @@
 # Trivia-Masters
 An online quiz game created using tkinter and pillow library. This was made for the final year High School Project during the academic year 2022-23.
+
 Trivia Masters - An online quiz consisting of a GUI login and signup page with questions in the form of CSV fetched from links How to run it -
 
 1. Install the latest python version and configure it.
