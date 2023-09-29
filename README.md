@@ -16,4 +16,26 @@ Project Snapshots:-
 1. Home Page:-
    ![Start Page](https://github.com/dharalnaik/Trivia-Masters/assets/142478246/d72eeb9c-4ca5-435b-b44e-dd7e5d7825d7)
 
-   
+2. Sign-up Page:-
+   ![Sign Up Page](https://github.com/dharalnaik/Trivia-Masters/assets/142478246/4d8a60d0-1375-4f36-ad9c-ccb99be64400)
+
+3. Login Page:-
+   ![Login Page](https://github.com/dharalnaik/Trivia-Masters/assets/142478246/103ba2c3-d2e3-49ad-bb32-2d51336a5380)
+
+4. Instructions:-
+   ![Instructions](https://github.com/dharalnaik/Trivia-Masters/assets/142478246/c4ae8630-1d7c-45cd-a227-9d394f10ea03)
+
+5. Questions:-
+   ![Question](https://github.com/dharalnaik/Trivia-Masters/assets/142478246/0c26dec8-e7b1-4422-999b-9ca10d923727)
+
+7. Result Page:-
+   ![Result Page](https://github.com/dharalnaik/Trivia-Masters/assets/142478246/9a1d0648-a959-4410-a080-ae99fd02aa27)
+
+8. Backend- SQL:-
+   ![Backend](https://github.com/dharalnaik/Trivia-Masters/assets/142478246/274a162c-58e7-4fe5-bb08-1f4e0e590342)
+
+9. Backedn- CSV:-
+   ![Backend_CSV](https://github.com/dharalnaik/Trivia-Masters/assets/142478246/375cc8d8-323c-41b0-9969-458bc6a8e1c2)
+
+
+
